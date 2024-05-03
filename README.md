@@ -25,6 +25,10 @@ Through the development of "Poem Pop AR" we gained valuable insights into Gemini
 ## What's next 
 In the future, we plan to expand "Poem Pop AR" with new features such as multiplayer modes, additional poetry styles, and the integration of scoreboards and leaderboards. With multiplayer modes, users can challenge friends or compete against other players in real-time word collection battles. Additionally, the addition of scoreboards and leaderboards will allow users to track their progress, compare scores with friends, and compete for the top spot. These updates will enhance the social and competitive aspects of Poem Pop AR, providing users with even more ways to engage with the app and enjoy the experience.
 
+## How to use
+Insert your Google Gemini AI API key into "GeminiAPIManager.cs". After that, choose the platform as either Android or iOS, and proceed to build.
+
+
 ## Video
 https://youtu.be/_RPW1CeGqsw?si=E6xDdYoVUTlawFO-
 
